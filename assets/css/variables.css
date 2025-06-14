@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #ffffff;
+  --color-text: #111827;
+  --color-card: #f3f4f6;
+  --color-icon: #f3f4f6;
+  --color-icon-hover: hsl(220, 14%, 80%);
+  --color-primary: #1d4ed8;
+}
+.theme-dark {
+  --color-bg: #1f2937;
+  --color-text: #f9fafb;
+  --color-card: #374151;
+  --color-icon: #374151;
+  --color-icon-hover: hsl(217, 19%, 47%);
+  --color-primary: #3b82f6;
+}
